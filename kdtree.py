@@ -2,7 +2,7 @@
 # K Dimensional Tree (KD-Tree) Algorithm
 # Binary space partitioning data structure 
 # for 2D points
-# Input: an np.array P of 2 dimensional points,
+# Input: an array P of 2 dimensional points,
 # and the depth node
 #-----------------------------------------
 
